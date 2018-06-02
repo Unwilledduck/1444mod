@@ -5,11 +5,11 @@ state={
 	manpower = 7265029
 	buildings_max_level_factor = 1
 
-	state_category = megalopolis
+	state_category = megaloHREis
 
 
 	history={
-		owner = GER
+		owner = HRE
 		victory_points = {
 			6521 50 
 		}
@@ -21,14 +21,14 @@ state={
 			arms_factory = 5
 			industrial_complex = 4
 			anti_air_building = 2
-			air_base = 6
+			# = 6
 
 		}
-		add_core_of = GER
+		add_core_of = HRE
 
 		1939.1.1 = {
 			buildings = {
-				air_base = 10
+				# = 10
 				anti_air_building = 5
 				arms_factory = 10
 				industrial_complex = 7

@@ -22,7 +22,7 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 

@@ -8,15 +8,15 @@ state={
 	state_category = town
 
 	history={
-		owner = GER
+		owner = HRE
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = GER
+		add_core_of = HRE
 
 		1939.1.1 = {
 			buildings = {
-				air_base = 8
+				# = 8
 			}
 		}
 	}
