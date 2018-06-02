@@ -1,0 +1,53 @@
+bookmarks = {
+	bookmark = {	#1440
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1440.1.1.12
+		picture = "GFX_select_date_1850"
+		default_country = "USA"
+		default = yes
+		
+		"FLA"={
+			history = "AHU_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas={
+
+			}
+			focuses = {
+
+			}
+		}
+		"SCO"={
+			history = "OTT_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas={
+
+			}
+			focuses = {
+			OTT_Ready_for_War
+			OTT_Peaceful
+			}
+		}
+		"HRE"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+
+			}
+			focuses = {
+			ENG_Royal_Navy
+			ENG_Great_Game
+			ENG_Industrial_Revolution
+			}
+		}
+		
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
