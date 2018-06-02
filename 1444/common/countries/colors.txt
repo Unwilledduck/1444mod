@@ -9,10 +9,10 @@ FLA = {
 	color_ui = rgb { 255 255 51 }
 }
 HRE = {
-	color = HSV { 0.1 0.15 0.4 }
-	color_ui = rgb { 192 212 92 }
+	color = rgb { 247 209 24 }
+	color_ui = rgb { 247 209 24 }
 }
 SCO = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 37 72 184 }
 	color_ui = rgb { 37 72 180 }
 }
