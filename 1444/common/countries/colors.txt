@@ -16,3 +16,11 @@ SCO = {
 	color = rgb { 37 72 184 }
 	color_ui = rgb { 37 72 180 }
 }
+FRE = {
+	color = rgb { 64 28 221 }
+	color_ui = rgb { 64 28 221 }
+}
+ENL = {
+	color = rgb { 223 93 12 }
+	color_ui = rgb { 223 93 1 }
+}

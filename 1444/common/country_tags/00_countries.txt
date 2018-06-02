@@ -1,3 +1,5 @@
 FLA = "countries/Flanders.txt"
 SCO = "countries/Scotland.txt"
 HRE = "countries/HRE.txt"
+ENL = "countries/England.txt"
+FRE = "countries/France.txt"
