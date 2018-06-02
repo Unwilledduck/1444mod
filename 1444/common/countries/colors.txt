@@ -1,0 +1,18 @@
+#reload countrycolors
+
+GER = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 138 155 116 }
+}
+FLA = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 255 255 51 }
+}
+HRE = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 192 212 92 }
+}
+SCO = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 37 72 180 }
+}
