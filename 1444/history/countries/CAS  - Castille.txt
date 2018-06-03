@@ -1,0 +1,51 @@
+﻿capital = 41
+
+oob = "CAS_1444"
+
+# Starting tech
+set_technology = {
+	
+}
+
+set_convoys = 85
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 50
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		communism = {
+			popularity = 0
+			
+		}
+		
+		neutrality = { 
+			popularity = 50
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	
+	name = "John II of Castile"
+	picture = "gfx/leaders/CAS/johnII.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		compassionate_gentleman
+	}
+}
+
+
+
