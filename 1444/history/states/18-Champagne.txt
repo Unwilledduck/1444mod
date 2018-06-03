@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = FRA
+		owner = FRE
 		victory_points = {
 			9490 5 
 		}
@@ -17,9 +17,9 @@ state={
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 1
-			air_base = 10
+	
 		}
-		add_core_of = FRA
+		add_core_of = FRE
 	}
 
 	provinces={
