@@ -24,7 +24,15 @@ ENL = {
 	color = rgb { 223 93 12 }
 	color_ui = rgb { 223 93 1 }
 }
-OTT = {
-	color = rgb { 190 255 147 }
-	color_ui = rgb { 190 255 147 }
+VEN = {
+	color = rgb { 15 100 155 }
+	color_ui = rgb { 15 100 155  }
+}
+POL = {
+	color = rgb { 100 50 50 }
+	color_ui = rgb { 100 50 50  }
+}
+CAS = {
+	color = rgb { 99 99 99 }
+	color_ui = rgb { 99 99 99 }
 }
